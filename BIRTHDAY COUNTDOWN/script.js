@@ -26,7 +26,7 @@
                     countdown = document.getElementById("countdown"),
                     content = document.getElementById("content");
 
-                headline.innerText = "Today is your day ......";
+                headline.innerText = "Happy Birthday Christian!We thank God for His protection.Enjoy your special day and may you be showered with God's love and grace";
                 countdown.style.display = "none";
                 content.style.display = "block";
 
